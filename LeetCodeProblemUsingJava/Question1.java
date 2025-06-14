@@ -3,6 +3,11 @@ package LeetCodeProblemUsingJava;
 import java.util.HashMap;
 import java.util.Map;
 
+
+// Question 1 : Two Sum
+// Link : https://leetcode.com/problems/two-sum/description/
+
+
 public class Question1 {
 
   public int[] twoSum(int[] nums, int target) {
