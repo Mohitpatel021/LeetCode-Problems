@@ -4,7 +4,6 @@ package LeetCodeProblemUsingJava;
 // Link : https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
 
 public class Question2108 {
-
   public String firstPalindrome(String[] words) {
     for (String s : words) {
       int i = 0;
